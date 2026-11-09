@@ -1,6 +1,6 @@
 # 網遊`「逃離太凶油」` 現已推出!
 
-[「逃離太凶油」](https://yuenhk.github.io/Escape-From-Space-Oil/)，是一款基於 `Scratch`，為我們孩子未來而設的網頁禁毒遊戲；易玩且動感；具教育意義；遊戲參考了Geometry Dash；部分功能仍在開發中 🚧。
+[「逃離太凶油」](https://wcy.hk/Escape-From-Space-Oil/)，是一款基於 `Scratch`，為我們孩子未來而設的網頁禁毒遊戲；易玩且動感；具教育意義；遊戲參考了Geometry Dash；部分功能仍在開發中 🚧。
 
 ---
 
